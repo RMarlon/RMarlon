@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Marlon Santos 👋
 
-- 🌱 Estudando Desenvolvimento Front End ...
-- 💻 Em busca de um estágio na area... 👨‍💻
+- 🌱 Estudando Desenvolvimento Full Stack ...
+- 💻 Em busca de uma vaga... 👨‍💻
 - 😄 Pronouns: ele/dele
 
 
